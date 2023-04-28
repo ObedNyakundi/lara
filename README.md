@@ -1,3 +1,3 @@
-# This is a laravel ten learning project
+# This is a laravel 10 learning project
 
 ## It has nothing important.
